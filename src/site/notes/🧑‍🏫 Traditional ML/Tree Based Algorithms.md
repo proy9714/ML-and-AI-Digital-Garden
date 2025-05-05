@@ -90,5 +90,5 @@ Also explains [[🧒 ML Fundamentals/Ensemble Learning\|Bootstrapping and Baggin
 
 ## Related Topics
 
-- [[Random Forest\|Random Forest]]
+- [[Random Forest]]
 - [[🧒 ML Fundamentals/Ensemble Learning\|Ensemble Learning]]
