@@ -3,8 +3,8 @@
 ---
 
 
-| File                                                                                             | Modified      |
-| ------------------------------------------------------------------------------------------------ | ------------- |
+| File                                                                                          | Modified      |
+| --------------------------------------------------------------------------------------------- | ------------- |
 | [[Priyadarshi AI Garden\|Priyadarshi AI Garden]]                                              | May 30, 2024  |
 | [[👀 Computer Vision/Neural Style Transfer\|Neural Style Transfer]]                           | May 22, 2024  |
 | [[👀 Computer Vision/Medical Image Segmentation\|Medical Image Segmentation]]                 | May 28, 2024  |

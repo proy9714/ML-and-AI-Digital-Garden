@@ -11,3 +11,12 @@ src/site/styles/_theme.*.css
 .cache
 _site/
 **/.DS_Store
+
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
+
+# OR only to exclude workspace cache
+.obsidian/workspace/*
+
+# Exclude plugins
+.obsidian/plugins/*
